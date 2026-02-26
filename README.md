@@ -92,6 +92,12 @@ I specialize in:
 
 ⭐ Feel free to check out my repositories and don't forget to star them if you like my work!
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&size=35&center=true&vCenter=true&width=600&lines=WordPress+Developer;Shopify+Expert;eCommerce+Specialist)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tecsolution11&theme=radical)
