@@ -90,13 +90,4 @@ I specialize in:
 
 ---
 
-## 📫 Let's Connect
-
-- 💼 Portfolio: [Your Portfolio Link]
-- 💼 LinkedIn: [Your LinkedIn Link]
-- 📧 Email: your@email.com
-- 🌐 Website: [Your Website]
-
----
-
 ⭐ Feel free to check out my repositories and don't forget to star them if you like my work!
