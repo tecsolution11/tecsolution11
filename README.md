@@ -56,7 +56,7 @@
 ---
 
 ## 🐍 Contribution Snake
-
+![Snake animation](https://raw.githubusercontent.com/tecsolution11/tecsolution11/output/github-contribution-grid-snake.svg)
 <p align="center">
   <img src="https://github.com/tecsolution11/tecsolution11/blob/output/github-contribution-grid-snake.svg" />
 </p>
