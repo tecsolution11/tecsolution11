@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Tian
 
 🚀 WordPress & Shopify eCommerce CMS Developer  
 💻 Building High-Converting, Scalable Online Stores  
