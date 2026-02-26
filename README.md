@@ -1,100 +1,85 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tec Solution</h1>
+<h3 align="center">🚀 WordPress & Shopify eCommerce Developer</h3>
 
-# 👋 Hi, I'm Tian
-
-🚀 WordPress & Shopify eCommerce CMS Developer  
-💻 Building High-Converting, Scalable Online Stores  
-🌎 Helping Businesses Grow Digitally  
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate **WordPress and Shopify eCommerce Developer** with experience building custom themes, optimizing performance, and developing conversion-focused online stores.
-
-I specialize in:
-
-- 🛒 eCommerce Development (WooCommerce & Shopify)
-- 🎨 Custom Theme Development
-- ⚡ Performance Optimization
-- 🔍 SEO-Friendly Development
-- 📱 Fully Responsive Design
-- 🔧 Custom Plugin & App Integration
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=600&lines=WordPress+Developer;Shopify+Expert;WooCommerce+Specialist;eCommerce+Growth+Developer;Frontend+%2B+CMS+Engineer" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🧑‍💻 About Me
 
-### CMS & Platforms
+💼 Professional WordPress & Shopify Developer  
+🛒 eCommerce Specialist (WooCommerce + Shopify)  
+⚡ Performance Optimization Expert  
+🎯 Conversion-Focused Store Builder  
+🌍 Helping Businesses Scale Online  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 CMS & eCommerce
 - WordPress
 - WooCommerce
 - Shopify
+- Elementor
+- WPBakery
 
-### Frontend
+### 💻 Frontend
 - HTML5
 - CSS3
 - JavaScript
-- jQuery
 - Bootstrap
-- Liquid (Shopify)
+- Tailwind
 
-### Backend
+### ⚙️ Backend & Tools
 - PHP
 - MySQL
-
-### Tools
-- Git & GitHub
-- Elementor
-- WPBakery
-- Advanced Custom Fields (ACF)
-- Shopify CLI
+- Git
+- GitHub
+- cPanel
+- SEO Optimization
 
 ---
 
-## 💼 Services I Offer
+## 📊 GitHub Stats
 
-- Custom WordPress Website Development
-- WooCommerce Store Setup & Customization
-- Shopify Store Development
-- Shopify Theme Customization
-- Website Speed Optimization
-- Website Migration
-- Bug Fixing & Maintenance
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tecsolution11&show_icons=true&theme=tokyonight" />
+</p>
 
----
-
-## 🌟 Featured Projects
-
-### 🏠 Virtual Staging Website
-🔗 https://virtualstagingsolutions.com/  
-- Custom WordPress Development  
-- Performance Optimization  
-- Responsive Design  
-- SEO Improvements  
-
-### 🛍 Shopify eCommerce Store
-- Custom Shopify Theme
-- Product Page Optimization
-- Conversion-Focused UI
-- Payment & App Integration
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tecsolution11&theme=tokyonight" />
+</p>
 
 ---
 
-## 📈 What I Focus On
+## 🐍 Contribution Snake
 
-✔ Clean & Maintainable Code  
-✔ SEO-Optimized Structure  
-✔ Mobile-First Design  
-✔ Fast Loading Speed  
-✔ Conversion Optimization  
+<p align="center">
+  <img src="https://github.com/tecsolution11/tecsolution11/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-⭐ Feel free to check out my repositories and don't forget to star them if you like my work!
+## 🌎 Connect With Me
 
-![Snake animation](https://github.com/tecsolution11/tecsolution11/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <a href="https://github.com/tecsolution11"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&size=35&center=true&vCenter=true&width=600&lines=WordPress+Developer;Shopify+Expert;eCommerce+Specialist)
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tecsolution11&theme=radical)
+## 💼 Portfolio
 
+🔗 WordPress & Shopify Projects  
+🔗 eCommerce Store Development  
+🔗 Speed Optimization & SEO  
+🔗 Custom Theme Development  
+
+---
+
+<p align="center">
+  ⚡ Building High-Converting eCommerce Experiences ⚡
+</p>
