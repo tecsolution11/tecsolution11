@@ -92,7 +92,7 @@ I specialize in:
 
 ⭐ Feel free to check out my repositories and don't forget to star them if you like my work!
 
-
+https://github-readme-stats.vercel.app/api?username=tecsolution11&show_icons=true&theme=radical
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tecsolution11&theme=radical)
 
